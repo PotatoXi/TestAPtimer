@@ -26,7 +26,7 @@ SECRET_KEY = '@%&63_5jblruk-pm(*@8y6i8za2f0s(mmiv-edf!7a7*)uuf(r'
 DEBUG = True
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'aptimer.azurewebsites.net']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'aptimer.azurewebsites.net', '.azurewebsites.net']
 
 CORS_ORIGIN_ALLOW_ALL=True
 
